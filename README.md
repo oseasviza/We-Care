@@ -11,4 +11,4 @@
   <p>Esse é mais um projeto responsivo para colocar em prática o meu aprendizado.</p>
 
 
-<img src="https://github.com/oseasviza/Projeto-Easy-Shopping/blob/master/assets/Mock-up%20PC.png?raw=true" height="400"/> </td>
+<img src="https://github.com/oseasviza/We-Care/blob/master/We%20care%20Readme.png?raw=true" height="400"/> </td>
